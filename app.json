@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Podcasts em Foco",
+    "slug": "podcasts-em-foco",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "android": {
+      "package": "br.com.seunome.podcastsemfoco"
+    }
+  }
+}
