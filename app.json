@@ -12,6 +12,9 @@
         "projectId": "236d35fa-06ce-4700-b6c9-d708e384119c"
       }
     },
-    "owner": "professorgeorgeoliveira"
+    "owner": "professorgeorgeoliveira",
+    "plugins": [
+      "expo-font"
+    ]
   }
 }
