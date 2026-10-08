@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Podcasts em Foco",
-    "slug": "podcasts-em-foco",
+    "slug": "asdf12",
     "version": "1.0.0",
     "orientation": "portrait",
     "android": {
@@ -9,7 +9,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "abe97bce-86ad-4d19-bb83-f7eae9d1b572"
+        "projectId": "236d35fa-06ce-4700-b6c9-d708e384119c"
       }
     },
     "owner": "professorgeorgeoliveira"
