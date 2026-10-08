@@ -6,6 +6,12 @@
     "orientation": "portrait",
     "android": {
       "package": "br.com.seunome.podcastsemfoco"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "abe97bce-86ad-4d19-bb83-f7eae9d1b572"
+      }
+    },
+    "owner": "professorgeorgeoliveira"
   }
 }
